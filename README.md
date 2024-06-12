@@ -1,8 +1,8 @@
 Project Highlight: Data Cleaning in SQL with the Nashville Housing Dataset.
 
 Project Objectives : 
-➡️Improve data quality and reliability.
-➡️Prepare clean data for meaningful analysis.
+                   ➡️Improve data quality and reliability.                                                               
+                   ➡️Prepare clean data for meaningful analysis.
 
 Overview : This project demonstrates comprehensive data cleaning techniques applied to the Nashville Housing dataset using Microsoft SQL Server. The key tasks performed include:
 
